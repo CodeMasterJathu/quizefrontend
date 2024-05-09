@@ -9,7 +9,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:5000/api',
+      url: 'https://answer-vze7.onrender.com',
       description: 'Development server',
     },
   ],
